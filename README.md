@@ -28,7 +28,8 @@ By integrating deep learning, medical imaging, and interactive AI-powered diagno
 
 ## System Architecture
 
-![arc](https://github.com/user-attachments/assets/68db7754-bc68-4c41-8f5a-0546b0a0d98a)
+![Screenshot 2025-03-12 202121](https://github.com/user-attachments/assets/8588c024-e9fe-4cb6-acf1-18878f848d9c)
+
 
 
 
